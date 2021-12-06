@@ -1,7 +1,7 @@
 # Cleaning-and-Analysis-Test-Project
 
 In this project we will work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
-The goal is to determine if there was a specific reason or dissatisfaction that lead the employees that worked for a short or long time to resign.
+The first goal will be to determine if most of the resigns for dissatisfaction were from employees with few years worked in the institution, or if was from employees with several years worked.
 
 Information about the datasets can be found in the following links.
 
